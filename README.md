@@ -63,7 +63,3 @@ Este proyecto forma parte del challenge de **Alura Latam**, enfocado en resolver
 - Validación de entradas
 - Uso de arreglos
 - Generación de números aleatorios
-
----
-
-¿Quieres que te ayude a agregar una sección de créditos, instrucciones de instalación o incluso capturas de pantalla?
