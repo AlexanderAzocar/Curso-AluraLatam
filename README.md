@@ -31,13 +31,17 @@ El propósito de este repositorio es:
 
 ## 🛠️ Tecnologías y Temas Abordados
 
-- HTML, CSS y JavaScript
-- Manipulación del DOM
-- Validación de formularios
-- Lógica de negocio
-- Git y GitHub (ramas, commits, sincronización)
-- Inteligencia Artificial Generativa
-- Recursión, arrays, y funciones avanzadas
+| Tecnología / Tema                         | Descripción                                                                 |
+|-------------------------------------------|-----------------------------------------------------------------------------|
+| **HTML**                                  | Estructura de la página web                                                 |
+| **CSS**                                   | Estilos y diseño visual, con uso de variables para colores                  |
+| **JavaScript**                            | Lógica principal: manejo del DOM, validaciones, funciones y sorteos         |
+| **Manipulación del DOM**                  | Interacción dinámica con los elementos HTML                                 |
+| **Validación de formularios**             | Prevención de entradas vacías o duplicadas                                  |
+| **Lógica de negocio**                     | Implementación de reglas y procesos funcionales                             |
+| **Git y GitHub**                          | Control de versiones, ramas, commits y sincronización                       |
+| **Inteligencia Artificial Generativa**    | Exploración de IA aplicada a generación de contenido                        |
+| **Recursión, Arrays y Funciones Avanzadas** | Técnicas de programación para resolver problemas complejos                |
 
 ---
 
@@ -56,8 +60,5 @@ git checkout nombre-de-la-rama
 
 ## 📌 Créditos
 
-Este repositorio es parte de mi formación en [Alura Latam](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo9-one), como parte del programa **ONE - Oracle Next Education**.
+Este repositorio es parte de mi formación en [Alura Latam](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo9-one), como parte del programa **ONE - Oracle Next Education GEN-9**.
 
----
-
-¿Te gustaría que te ayude a crear un logo para el repositorio o una imagen de portada para hacerlo más visual?
